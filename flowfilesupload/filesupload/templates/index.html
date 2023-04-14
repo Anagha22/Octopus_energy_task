@@ -1,0 +1,10 @@
+<form method="post" action="/" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input type="file" name="files" multiple>
+    <button type="submit">Upload</button>
+</form>
+
+{% if msg %}
+    <div class="alert alert-success">{{ msg }}</div>
+{% endif %}
+
