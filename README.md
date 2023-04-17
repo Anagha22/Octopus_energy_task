@@ -9,7 +9,7 @@ Clone the repository: git@github.com:Anagha22/Octopus_energy_task.git
 python3 -m venv env
 source env/bin/activate
 
-###Install requirements
+### Install requirements
 pip install -r requirements.txt
 
 ### Run migrations: 
