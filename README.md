@@ -3,7 +3,7 @@
 This is a Django app developed by Anagha Radhakrishnan.
 
 ### Installation
-Clone the repository: git clone https://github.com/Anagha22/OctopusEnergy.git
+Clone the repository: git@github.com:Anagha22/Octopus_energy_task.git
 
 ### Create a virtual environment and activate it:
 python3 -m venv env
